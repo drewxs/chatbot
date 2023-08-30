@@ -1,6 +1,6 @@
 # Chatbot
 
-An AI chatbot built using Leptos, Actix, and Rustformers with Llama 2 (OSS variant of GPT).
+An AI chatbot built using Leptos, Actix, and Rustformers w/ Llama 2.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ Find one [here](https://huggingface.co/models?search=ggml).
 
 Copy env template:
 
-```
+```sh
 cp .env.example .env
 ```
 
